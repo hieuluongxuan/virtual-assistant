@@ -3,7 +3,7 @@
 2. Processing: It processes the recognized text to trigger specific actions based on the command received.
 3. Speaking: The assistant responds by converting text into speech using the text-to-speech engine.
 
-## Dịch sang tiếng Anh: Sau khi chia code thành 3 phần (Listen.py, process.py và speak.py), ghép code lại thành file VirtualAssistant.py và run.
+## After dividing the code into three parts(Listen.py, process.py và speak.py), merge the code back into a file named VirtualAssistant.py and run it..
 
 ## Installation
 ### For windows users
